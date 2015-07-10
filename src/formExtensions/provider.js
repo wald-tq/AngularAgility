@@ -357,7 +357,7 @@
   }
 
 
-  function wrap(elms, wrapper) {
+  this.wrap = function(elms, wrapper) {
     var wrapperDiv = document.createElement('div');
     wrapperDiv.innerHTML = wrapper;
 
