@@ -41,7 +41,7 @@
     "url": "https://github.com/AngularAgility/AngularAgility/issues"
   },
   "homepage": "https://github.com/AngularAgility/AngularAgility#readme",
-  "main": "Gruntfile.js",
+  "main": "./dist/angular-agility",
   "directories": {
     "doc": "docs",
     "test": "test"
